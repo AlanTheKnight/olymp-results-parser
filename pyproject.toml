@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "results-parser"
+name = "olymp-results-parser"
 version = "1.0.0"
 description = ""
 authors = ["AlanTheKnight <51376126+AlanTheKnight@users.noreply.github.com>"]
